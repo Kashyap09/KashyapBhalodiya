@@ -6,19 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Management System**
+🔭 I’m an Associative Programmer
 
-- 🌱 I’m currently learning **Node JS, React JS and PHP**
+🌱 Currently exploring Full-Stack Development and modern software technologies
 
-- 👯 I’m looking to collaborate on **open source projects**
+👯 I’m open to collaborating on open-source projects and innovative ideas
 
-- 👨‍💻 All of my projects are available at [https://github.com/KashyapBhalodiya?tab=repositories](https://github.com/KashyapBhalodiya?tab=repositories)
+👨‍💻 Check out all my projects here: GitHub Repositories
 
-- 💬 Ask me about **Competitive programmer and backend development**
+💬 Ask me about Competitive Programming, Backend Development, and AI tools
 
-- 📫 How to reach me **kashyapbhalodiya9@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+📫 Reach me at kashyapbhalodiya9@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
